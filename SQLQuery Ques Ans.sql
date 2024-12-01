@@ -111,8 +111,8 @@ order by average_discount_percentage desc
 ---------------------------------------------------------------------------------------------------------
 --Question-7
 
-/* Get the complete report of the Gross sales amount for the customer  ìAtliq 
-Exclusiveî  for each month  .  This analysis helps to  get an idea of low and 
+/* Get the complete report of the Gross sales amount for the customer  ‚ÄúAtliq 
+Exclusive‚Äù  for each month  .  This analysis helps to  get an idea of low and 
 high-performing months and take strategic decisions. 
 The final report contains these columns: 
 Month 
@@ -151,7 +151,6 @@ WHERE fiscal_year = 2020
 GROUP BY Quarters
 ORDER BY total_sold_quantity DESC
 
---PTBN:- The above query won't work because date columns date in this table format is distrubed.
 ----------------------------------------------------------------------------------------------------------
 --Question-9 
 /* Which channel helped to bring more gross sales in the fiscal year 2021 
