@@ -1,6 +1,6 @@
 # Mitron Bank Project using SQL and Power Bi 
 # Banking Domain
-Hi folks, this repository contains all related resources/files present.
+Hi folks, this repository contains all related resources/files needed and prepared by me for this project.
 
 In this project, I have derieved insights from 209 distinct customers having 9.7lakh transactions.
 For solving business problems, I initially load the data in my database using MS-SQL server.
