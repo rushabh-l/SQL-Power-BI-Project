@@ -1,6 +1,6 @@
 # Ad-Hoc Project using SQL and Power Bi 
 
-Hi folks, this repository contains all related resources/files needed and prepared by me for this project.
+Hi everyone, this repository contains all the resources and files related to the project, which have been prepared by me.
 
 ▶️ Ad-Hoc-Insights
 Company: AtliQ Hardwares
